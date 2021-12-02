@@ -5,11 +5,13 @@
 
 
 ## **GitHub Stats**
-<div>
-  <a href="https://github.com/zethsell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zethsell&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zethsell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/zethsell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zethsell&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/zethsell">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=zethsell&show_icons=true&theme=dracula&line_height=27&include_all_commits=true&count_private=true" alt="**zethsell** github stats"/>
+</a>
   
 ## **Languages & Tools**
   
