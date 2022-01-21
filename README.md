@@ -1,7 +1,7 @@
 <h2>Hello! I'm Marcio</h2>
 
-- 🔭 I’m currently working with PHP, Laravel 8 & VueJS 3
-- 🌱 I’m currently learning Flutter, Node
+- 🔭 I’m currently working with PHP, Laravel 8, VueJS 3, Node
+- 🌱 I’m currently learning PWA, Node, TypeScript
 
 
 ## **GitHub Stats**
