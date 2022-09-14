@@ -1,7 +1,7 @@
 <h2>Hello! I'm Marcio</h2>
 
-- 🔭 I’m currently working with PHP, Laravel 8, VueJS 3, Node
-- 🌱 I’m currently learning PWA, Node, TypeScript
+- 🔭 I’m currently working with PHP, Laravel 8, VueJS 3, Node, Flutter
+- 🌱 I’m currently Flutter, GraphQL
 
 
 ## **GitHub Stats**
@@ -20,6 +20,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
