@@ -1,6 +1,6 @@
 <h2>Hello! I'm Marcio</h2>
 
-- 🔭 I’m currently working with PHP, Laravel 8, VueJS 3, Node, Flutter
+- 🔭 I’m currently working with NodeJS, Typescript, PHP, Laravel 8, VueJS 3, Node, Flutter
 - 🌱 I’m currently studying Flutter, GraphQL
 
 
