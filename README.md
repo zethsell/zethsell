@@ -1,7 +1,6 @@
 <h2>Hello! I'm Marcio</h2>
 
-- 🔭 I’m currently working with NodeJS, Typescript, PHP, Laravel 8 - 10, VueJS 3
-- 🌱 I’m currently studying Microsservices
+
 
 
 ## **GitHub Stats**
